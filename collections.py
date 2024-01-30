@@ -3,6 +3,7 @@ dict = {'name': 'John', 'age': 25, 'city': 'New York'}
 tuple = (1, 'two', 3.0, 'four')
 set = {"a", "b", "c"}
 
+
 print(list)
 print(dict)
 print(tuple)
