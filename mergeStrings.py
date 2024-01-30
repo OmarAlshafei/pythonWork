@@ -11,3 +11,4 @@ class Solution:
                 newWord.append(word2[i])
 
         return ''.join(newWord)
+    
